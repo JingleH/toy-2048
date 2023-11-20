@@ -1,0 +1,15 @@
+div.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2px;
+}
+
+div.row {
+  display: flex;
+  flex-direction: row;
+}
+
+div.scores {
+  text-align: center;
+}
